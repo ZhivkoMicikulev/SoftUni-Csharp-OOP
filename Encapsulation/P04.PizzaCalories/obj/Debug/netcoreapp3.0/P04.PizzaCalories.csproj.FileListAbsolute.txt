@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P04.PizzaCalories\bin\Debug\netcoreapp3.0\P04.PizzaCalories.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P04.PizzaCalories\bin\Debug\netcoreapp3.0\P04.PizzaCalories.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P04.PizzaCalories\bin\Debug\netcoreapp3.0\P04.PizzaCalories.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P04.PizzaCalories\bin\Debug\netcoreapp3.0\P04.PizzaCalories.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P04.PizzaCalories\bin\Debug\netcoreapp3.0\P04.PizzaCalories.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P04.PizzaCalories\bin\Debug\netcoreapp3.0\P04.PizzaCalories.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P04.PizzaCalories\obj\Debug\netcoreapp3.0\P04.PizzaCalories.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P04.PizzaCalories\obj\Debug\netcoreapp3.0\P04.PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P04.PizzaCalories\obj\Debug\netcoreapp3.0\P04.PizzaCalories.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P04.PizzaCalories\obj\Debug\netcoreapp3.0\P04.PizzaCalories.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P04.PizzaCalories\obj\Debug\netcoreapp3.0\P04.PizzaCalories.pdb

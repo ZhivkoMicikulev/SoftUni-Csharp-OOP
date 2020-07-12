@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P02.AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P02.AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P02.AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P02.AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P02.AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P02.AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P02.AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P02.AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P02.AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P02.AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P02.AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb

@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P03.ShoppingSpree\bin\Debug\netcoreapp3.0\P03.ShoppingSpree.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P03.ShoppingSpree\bin\Debug\netcoreapp3.0\P03.ShoppingSpree.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P03.ShoppingSpree\bin\Debug\netcoreapp3.0\P03.ShoppingSpree.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P03.ShoppingSpree\bin\Debug\netcoreapp3.0\P03.ShoppingSpree.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P03.ShoppingSpree\bin\Debug\netcoreapp3.0\P03.ShoppingSpree.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P03.ShoppingSpree\bin\Debug\netcoreapp3.0\P03.ShoppingSpree.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P03.ShoppingSpree\obj\Debug\netcoreapp3.0\P03.ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P03.ShoppingSpree\obj\Debug\netcoreapp3.0\P03.ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P03.ShoppingSpree\obj\Debug\netcoreapp3.0\P03.ShoppingSpree.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P03.ShoppingSpree\obj\Debug\netcoreapp3.0\P03.ShoppingSpree.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P03.ShoppingSpree\obj\Debug\netcoreapp3.0\P03.ShoppingSpree.pdb

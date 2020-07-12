@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P01.BoxData\bin\Debug\netcoreapp3.0\P01.BoxData.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P01.BoxData\bin\Debug\netcoreapp3.0\P01.BoxData.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P01.BoxData\bin\Debug\netcoreapp3.0\P01.BoxData.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P01.BoxData\bin\Debug\netcoreapp3.0\P01.BoxData.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P01.BoxData\bin\Debug\netcoreapp3.0\P01.BoxData.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P01.BoxData\bin\Debug\netcoreapp3.0\P01.BoxData.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P01.BoxData\obj\Debug\netcoreapp3.0\P01.BoxData.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P01.BoxData\obj\Debug\netcoreapp3.0\P01.BoxData.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P01.BoxData\obj\Debug\netcoreapp3.0\P01.BoxData.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P01.BoxData\obj\Debug\netcoreapp3.0\P01.BoxData.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Encapsulation\Demo\P01.BoxData\obj\Debug\netcoreapp3.0\P01.BoxData.pdb
