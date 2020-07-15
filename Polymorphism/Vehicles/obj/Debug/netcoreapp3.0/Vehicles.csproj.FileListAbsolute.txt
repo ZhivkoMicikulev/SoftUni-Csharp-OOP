@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Polymorphism\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Polymorphism\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Polymorphism\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Polymorphism\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Polymorphism\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Polymorphism\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Polymorphism\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Polymorphism\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Polymorphism\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Polymorphism\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Polymorphism\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.pdb

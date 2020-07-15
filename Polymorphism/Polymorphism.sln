@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raiding", "Raiding\Raiding.csproj", "{730EDE29-00B1-4B30-B7F8-7BA2BCAFF755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "WildFarm\WildFarm.csproj", "{DA336130-8400-4FE7-8458-54210A5B5417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730EDE29-00B1-4B30-B7F8-7BA2BCAFF755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730EDE29-00B1-4B30-B7F8-7BA2BCAFF755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730EDE29-00B1-4B30-B7F8-7BA2BCAFF755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730EDE29-00B1-4B30-B7F8-7BA2BCAFF755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA336130-8400-4FE7-8458-54210A5B5417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA336130-8400-4FE7-8458-54210A5B5417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA336130-8400-4FE7-8458-54210A5B5417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA336130-8400-4FE7-8458-54210A5B5417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED6E4C1B-4845-4892-9559-1A14D288DA9F}
+	EndGlobalSection
+EndGlobal
