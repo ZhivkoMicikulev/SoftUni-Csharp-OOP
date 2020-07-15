@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\ExplicitInterfaces\bin\Debug\netcoreapp3.0\ExplicitInterfaces.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\ExplicitInterfaces\obj\Debug\netcoreapp3.0\ExplicitInterfaces.csprojAssemblyReference.cache

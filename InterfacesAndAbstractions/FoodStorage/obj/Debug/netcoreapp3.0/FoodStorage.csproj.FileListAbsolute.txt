@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\FoodStorage\bin\Debug\netcoreapp3.0\FoodStorage.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\FoodStorage\bin\Debug\netcoreapp3.0\FoodStorage.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\FoodStorage\bin\Debug\netcoreapp3.0\FoodStorage.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\FoodStorage\bin\Debug\netcoreapp3.0\FoodStorage.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\FoodStorage\bin\Debug\netcoreapp3.0\FoodStorage.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\FoodStorage\bin\Debug\netcoreapp3.0\FoodStorage.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\FoodStorage\obj\Debug\netcoreapp3.0\FoodStorage.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\FoodStorage\obj\Debug\netcoreapp3.0\FoodStorage.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\FoodStorage\obj\Debug\netcoreapp3.0\FoodStorage.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\FoodStorage\obj\Debug\netcoreapp3.0\FoodStorage.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\FoodStorage\obj\Debug\netcoreapp3.0\FoodStorage.csprojAssemblyReference.cache

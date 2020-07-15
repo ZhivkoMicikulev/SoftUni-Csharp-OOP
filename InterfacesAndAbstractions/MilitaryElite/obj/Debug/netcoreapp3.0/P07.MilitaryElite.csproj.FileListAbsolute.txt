@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P07.MilitaryElite\bin\Debug\netcoreapp3.0\P07.MilitaryElite.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P07.MilitaryElite\bin\Debug\netcoreapp3.0\P07.MilitaryElite.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P07.MilitaryElite\bin\Debug\netcoreapp3.0\P07.MilitaryElite.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P07.MilitaryElite\bin\Debug\netcoreapp3.0\P07.MilitaryElite.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P07.MilitaryElite\bin\Debug\netcoreapp3.0\P07.MilitaryElite.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P07.MilitaryElite\bin\Debug\netcoreapp3.0\P07.MilitaryElite.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P07.MilitaryElite\obj\Debug\netcoreapp3.0\P07.MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P07.MilitaryElite\obj\Debug\netcoreapp3.0\P07.MilitaryElite.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P07.MilitaryElite\obj\Debug\netcoreapp3.0\P07.MilitaryElite.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P07.MilitaryElite\obj\Debug\netcoreapp3.0\P07.MilitaryElite.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P07.MilitaryElite\obj\Debug\netcoreapp3.0\P07.MilitaryElite.csprojAssemblyReference.cache

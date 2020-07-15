@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P04.BorderControl\bin\Debug\netcoreapp3.0\P04.BorderControl.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P04.BorderControl\bin\Debug\netcoreapp3.0\P04.BorderControl.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P04.BorderControl\bin\Debug\netcoreapp3.0\P04.BorderControl.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P04.BorderControl\bin\Debug\netcoreapp3.0\P04.BorderControl.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P04.BorderControl\bin\Debug\netcoreapp3.0\P04.BorderControl.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P04.BorderControl\bin\Debug\netcoreapp3.0\P04.BorderControl.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P04.BorderControl\obj\Debug\netcoreapp3.0\P04.BorderControl.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P04.BorderControl\obj\Debug\netcoreapp3.0\P04.BorderControl.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P04.BorderControl\obj\Debug\netcoreapp3.0\P04.BorderControl.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P04.BorderControl\obj\Debug\netcoreapp3.0\P04.BorderControl.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\InterfacesAndAbstractions\P04.BorderControl\obj\Debug\netcoreapp3.0\P04.BorderControl.pdb
