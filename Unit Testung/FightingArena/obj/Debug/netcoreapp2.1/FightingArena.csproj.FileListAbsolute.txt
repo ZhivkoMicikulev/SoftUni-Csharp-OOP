@@ -1,0 +1,7 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.pdb

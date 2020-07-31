@@ -1,0 +1,7 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\Database\bin\Debug\netcoreapp2.1\Database.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\Database\bin\Debug\netcoreapp2.1\Database.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\Database\obj\Debug\netcoreapp2.1\Database.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# OOP\Unit Testung\Database\obj\Debug\netcoreapp2.1\Database.pdb
